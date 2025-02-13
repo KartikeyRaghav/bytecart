@@ -60,5 +60,5 @@ class BTexts {
   static const String popularProducts = "Popular Products";
 
   static const String homeAppbarTitle = "Good day for shopping";
-  static const String homeAppbarSubTitle = "Taimoor Sikander";
+  static const String homeAppbarSubTitle = "Kartikey Raghav";
 }
